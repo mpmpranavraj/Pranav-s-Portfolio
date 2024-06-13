@@ -42,7 +42,7 @@ function Hero() {
             <img src={linkedIcon} alt="Linkein Icon" />
           </a>
         </span>
-        <p className={styles.description}>
+        <p className={styles.description} id="description">
           Aspiring Programmer Studying BCA in Christ University.
         </p>
         <a href={CV}>
